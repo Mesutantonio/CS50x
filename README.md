@@ -1,6 +1,6 @@
 # CS50x
 
-This repository contains my solutions to the problem sets for the CS50x Introduction to Computer Science.
+This repository contains my solutions to the problem sets for the CS50x Introduction to Computer Science course.
 
 
 [CS50x Certificate.pdf](https://github.com/user-attachments/files/18052015/CS50x.Certificate.pdf)
